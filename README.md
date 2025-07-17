@@ -1,5 +1,5 @@
 Welcome to the Godot AppsFlyer Plugin, a lightweight and flexible integration of AppsFlyer for Godot Engine.
-This plugin helps you connect your game to AppsFlyer, track installs, events, and validate in-app purchases — all with minimal effort and maximum love.
+This plugin helps you connect your game to AppsFlyer, track events, and validate in-app purchases — all with minimal effort and maximum love.
 
 This plugin is written for Android. iOS support is not included in this version.
 
