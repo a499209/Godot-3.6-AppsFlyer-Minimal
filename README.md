@@ -65,7 +65,7 @@ GodotAppsFlyer.validate_purchase(
 
 Example:
 ```xml
-var public_key = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A..." # ← don't hardcode in production
+var public_key = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A..." # ← Better do not hardcode it in production
 var signature = "MEUCIQDVXeU9h..." # from BillingClient
 var purchase_data = "{\"orderId\":\"GPA.1234-5678-9012-34567\",...}" # from BillingClient
 var price = 2.99
