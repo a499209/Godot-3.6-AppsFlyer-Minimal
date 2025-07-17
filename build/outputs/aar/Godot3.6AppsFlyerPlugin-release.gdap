@@ -1,0 +1,12 @@
+[config]
+
+name="AppsFlyerHelper"
+binary_type="local"
+binary="Godot3.6AppsFlyerPlugin-release.aar"
+
+[dependencies]
+remote=[
+    "com.appsflyer:af-android-sdk:6.13.0",
+    "androidx.fragment:fragment:1.6.2",
+    "androidx.annotation:annotation:1.7.1"
+]
