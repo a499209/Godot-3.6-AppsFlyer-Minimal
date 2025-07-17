@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/xml/appsflyer_backup_rules.xml",
+        "source": "org.godot.appsflyerhelper-jetified-af-android-sdk-6.17.0-12:/xml/appsflyer_backup_rules.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/xml/appsflyer_data_extraction_rules.xml",
+        "source": "org.godot.appsflyerhelper-jetified-af-android-sdk-6.17.0-12:/xml/appsflyer_data_extraction_rules.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/xml/godot_provider_paths.xml",
+        "source": "org.godot.appsflyerhelper-jetified-godot-lib.3.6.stable.release-6:/xml/godot_provider_paths.xml"
+    }
+]

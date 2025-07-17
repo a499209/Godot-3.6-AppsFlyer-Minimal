@@ -1,0 +1,23 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application>
+        <meta-data
+            android:name="com.appsflyer.sdk.AF_DEV_KEY"
+            android:value="REPLACE_ME_WITH_DEV_KEY" />
+
+        <meta-data
+            android:name="org.godotengine.plugin.v1.AppsFlyerHelper"
+            android:value="org.godot.appsflyerhelper.AppsFlyerHelper" />
+
+        <receiver
+            android:name="com.appsflyer.SingleInstallBroadcastReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

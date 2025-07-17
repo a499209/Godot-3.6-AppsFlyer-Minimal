@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.godot.appsflyerhelper-merged_res-19:/values-fa/values-fa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Inspiration\\.gradle\\caches\\8.9\\transforms\\8262e11c51b282d004d265537d4829ff\\transformed\\core-1.8.0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Inspiration\\.gradle\\caches\\8.9\\transforms\\a4b68f1c9382bd84d38b5d689d159784\\transformed\\jetified-godot-lib.3.6.stable.release\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,183,241,301,370,440,618,791,893,972",
+                        "endColumns": "53,73,57,59,68,69,177,172,101,78,70",
+                        "endOffsets": "104,178,236,296,365,435,613,786,888,967,1038"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "156,210,284,342,402,471,541,719,892,994,1073",
+                        "endColumns": "53,73,57,59,68,69,177,172,101,78,70",
+                        "endOffsets": "205,279,337,397,466,536,714,887,989,1068,1139"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.godot.appsflyerhelper-mergeReleaseResources-17:/values-fa/values-fa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Inspiration\\.gradle\\caches\\8.9\\transforms\\8262e11c51b282d004d265537d4829ff\\transformed\\core-1.8.0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Inspiration\\.gradle\\caches\\8.9\\transforms\\a4b68f1c9382bd84d38b5d689d159784\\transformed\\jetified-godot-lib.3.6.stable.release\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,183,241,301,370,440,618,791,893,972",
+                        "endColumns": "53,73,57,59,68,69,177,172,101,78,70",
+                        "endOffsets": "104,178,236,296,365,435,613,786,888,967,1038"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "156,210,284,342,402,471,541,719,892,994,1073",
+                        "endColumns": "53,73,57,59,68,69,177,172,101,78,70",
+                        "endOffsets": "205,279,337,397,466,536,714,887,989,1068,1139"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/mipmap/icon.png",
+        "source": "org.godot.appsflyerhelper-jetified-godot-lib.3.6.stable.release-6:/mipmap/icon.png"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/mipmap/icon_foreground.png",
+        "source": "org.godot.appsflyerhelper-jetified-godot-lib.3.6.stable.release-6:/mipmap/icon_foreground.png"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/mipmap/icon_background.png",
+        "source": "org.godot.appsflyerhelper-jetified-godot-lib.3.6.stable.release-6:/mipmap/icon_background.png"
+    }
+]

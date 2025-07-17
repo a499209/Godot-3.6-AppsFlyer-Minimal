@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:1:1-23:12
+	package
+		INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:1:1-23:12
+		INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:4:22-76
+application
+ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:6:5-22:19
+meta-data#com.appsflyer.sdk.AF_DEV_KEY
+ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:7:9-9:55
+	android:value
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:9:13-52
+	android:name
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:8:13-56
+meta-data#org.godotengine.plugin.v1.AppsFlyerHelper
+ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:11:9-13:73
+	android:value
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:13:13-70
+	android:name
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:12:13-69
+receiver#com.appsflyer.SingleInstallBroadcastReceiver
+ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:15:9-21:20
+	android:exported
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:16:13-72
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:18:13-20:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:19:17-79
+	android:name
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:19:25-76
+uses-sdk
+INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml

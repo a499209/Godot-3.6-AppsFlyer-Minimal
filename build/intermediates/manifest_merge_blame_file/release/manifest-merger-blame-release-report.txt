@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.godot.appsflyerhelper" >
+4
+5    <uses-sdk android:minSdkVersion="19" />
+5-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:3:5-67
+7-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:3:22-64
+8    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+8-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:4:5-79
+8-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:4:22-76
+9
+10    <application>
+10-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:6:5-22:19
+11        <meta-data
+11-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:7:9-9:55
+12            android:name="com.appsflyer.sdk.AF_DEV_KEY"
+12-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:8:13-56
+13            android:value="REPLACE_ME_WITH_DEV_KEY" />
+13-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:9:13-52
+14        <meta-data
+14-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:11:9-13:73
+15            android:name="org.godotengine.plugin.v1.AppsFlyerHelper"
+15-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:12:13-69
+16            android:value="org.godot.appsflyerhelper.AppsFlyerHelper" />
+16-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:13:13-70
+17
+18        <receiver
+18-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:15:9-21:20
+19            android:name="com.appsflyer.SingleInstallBroadcastReceiver"
+19-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:16:13-72
+20            android:exported="true" >
+20-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:17:13-36
+21            <intent-filter>
+21-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:18:13-20:29
+22                <action android:name="com.android.vending.INSTALL_REFERRER" />
+22-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:19:17-79
+22-->C:\Users\Inspiration\Documents\GitHub\Godot-3.6-AppsFlyer-Minimal\src\main\AndroidManifest.xml:19:25-76
+23            </intent-filter>
+24        </receiver>
+25    </application>
+26
+27</manifest>

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.godot.appsflyerhelper-merged_res-19:/values-af/values-af.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Inspiration\\.gradle\\caches\\8.9\\transforms\\8262e11c51b282d004d265537d4829ff\\transformed\\core-1.8.0\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.godot.appsflyerhelper-mergeReleaseResources-17:/values-af/values-af.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Inspiration\\.gradle\\caches\\8.9\\transforms\\8262e11c51b282d004d265537d4829ff\\transformed\\core-1.8.0\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

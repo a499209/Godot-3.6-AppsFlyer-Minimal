@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/layout/downloading_expansion.xml",
+        "source": "org.godot.appsflyerhelper-jetified-godot-lib.3.6.stable.release-6:/layout/downloading_expansion.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/layout/godot_app_layout.xml",
+        "source": "org.godot.appsflyerhelper-jetified-godot-lib.3.6.stable.release-6:/layout/godot_app_layout.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/layout/notification_template_icon_group.xml",
+        "source": "org.godot.appsflyerhelper-core-1.8.0-5:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/layout/status_bar_ongoing_event_progress_bar.xml",
+        "source": "org.godot.appsflyerhelper-jetified-godot-lib.3.6.stable.release-6:/layout/status_bar_ongoing_event_progress_bar.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/layout/custom_dialog.xml",
+        "source": "org.godot.appsflyerhelper-core-1.8.0-5:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/layout/notification_action_tombstone.xml",
+        "source": "org.godot.appsflyerhelper-core-1.8.0-5:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/layout/notification_template_part_chronometer.xml",
+        "source": "org.godot.appsflyerhelper-core-1.8.0-5:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/layout/notification_action.xml",
+        "source": "org.godot.appsflyerhelper-core-1.8.0-5:/layout/notification_action.xml"
+    },
+    {
+        "merged": "org.godot.appsflyerhelper-merged_res-19:/layout/notification_template_part_time.xml",
+        "source": "org.godot.appsflyerhelper-core-1.8.0-5:/layout/notification_template_part_time.xml"
+    }
+]

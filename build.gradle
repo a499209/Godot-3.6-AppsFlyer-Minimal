@@ -1,0 +1,30 @@
+plugins {
+    id 'com.android.library' version '7.4.2'
+}
+
+android {
+    compileSdkVersion 34
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 33
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+
+    namespace 'org.godot.appsflyerhelper'
+}
+
+
+dependencies {
+    implementation 'com.appsflyer:af-android-sdk:6.17.0'
+    implementation(name: 'godot-lib.3.6.stable.release', ext: 'aar')
+    implementation 'androidx.fragment:fragment:1.6.2'
+    implementation 'androidx.annotation:annotation:1.7.1'
+}
+
+
