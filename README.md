@@ -35,7 +35,7 @@ paste your key and app id to init_appsflyer() function (GodotAppsFlyer.gd)
 
 Tracking Events example:
 ```xml
-GodotAppsFlyer.log_event("tutorial_completed", {"step": 3})
+GodotAppsFlyer.log_event("tutorial_completed", "step_3")
 ```
 ## 🧾 Purchase Validation
 
